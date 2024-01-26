@@ -1,0 +1,19 @@
+{
+<<<<<<< HEAD
+  "name": "locofy-html-css-project",
+=======
+  "name": "laundry_basket_website",
+
+>>>>>>> Incoming
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./*.html ",
+    "build": "parcel build ./*.html  --dist-dir ./build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
